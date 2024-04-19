@@ -8,7 +8,7 @@
 ```diff
 DYBTS(Discord機器人)
 JDYBTS(Discord機器人)
-https://dybts.xyz(官網)
+https://dybts.cloudns.be(官網)
 ```
 
 ##### 團隊簡介
